@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "417793294953",
+    "project_id": "vdcalling-d6518",
+    "storage_bucket": "vdcalling-d6518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417793294953:android:4f7e04ad0c8ba7458f58f8",
+        "android_client_info": {
+          "package_name": "com.example.cab_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417793294953-217rlu6nr9a03e4503rk3q3bduo9f807.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cab_rider",
+            "certificate_hash": "bdd90412814241fc526a68beca76675ff68a036a"
+          }
+        },
+        {
+          "client_id": "417793294953-dvgk4coj76pkof78jbk54ja3ussncq4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrWDdN5Mx0CpWqg5lvW9hn5KeH8yjJWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417793294953-dvgk4coj76pkof78jbk54ja3ussncq4q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417793294953-ls5kniqr12kq9qg2pqkt5r1b58b236q1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smiinfotech.cabrider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417793294953:android:ee4702ab87726af48f58f8",
+        "android_client_info": {
+          "package_name": "com.smiinfotech.cabdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417793294953-bhc9fona9bf57944cb0gr7gaugssd3sg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smiinfotech.cabdriver",
+            "certificate_hash": "bdd90412814241fc526a68beca76675ff68a036a"
+          }
+        },
+        {
+          "client_id": "417793294953-dvgk4coj76pkof78jbk54ja3ussncq4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrWDdN5Mx0CpWqg5lvW9hn5KeH8yjJWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417793294953-dvgk4coj76pkof78jbk54ja3ussncq4q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417793294953-ls5kniqr12kq9qg2pqkt5r1b58b236q1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smiinfotech.cabrider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
